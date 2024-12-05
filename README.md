@@ -1,4 +1,4 @@
-# Notre projet
+# Notre projet^^
 La palourde japonaise _Ruditapes philippinarum_ représente une espèce clé de l’aquaculture mondiale, contribuant à 25 % de la production de mollusques. En France, elle a été introduite dans les années 1970 pour ses qualités remarquables : fécondité élevée, croissance rapide ou encore résistance aux maladies. Toutefois, cette espèce a subi un déclin significatif en Europe entre 2000 et 2015 en raison de deux pathogènes, dont _Vibrio tapetis_. Comprendre les réponses métaboliques de la palourde face à ce pathogène, en particulier les mécanismes de résistance, est essentiel pour élaborer des stratégies de gestion durable et limiter les épidémies.
 
 # Objectif 
