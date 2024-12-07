@@ -20,9 +20,9 @@ Les fichiers Reads.fa et proteins_of_interest.csv ont été croisés pour obteni
 # Résultats
 Nos résultats sont similaires à ceux de l'étude initiale. Le notebook 1 permet de retrouver les 102 protéines dont les abondances sont significativement différentes entre les palourdes malades et les résistantes, ainsi que les 49 protéines dont le ratio des abondances entre les deux phénotypes (FC dans l’article initial) est supérieur à 1.5. Ces 49 protéines sont décrites dans le tableau 2 de l'article [Smits et al. 2020](./bibliographie/Smits_et_al_2020.pdf). Le notebook 1 permet aussi de produire les graphiques ci-dessous. La figure 1 permet de visualiser les 49 protéines d’intérêt en fonction de leur p-value obtenue avec le t-test, et leur ratio (FC). La figure 2 permet de visualiser l’abondance des 102 protéines chez chaque réplicat. 
 
-[Figure 1](./img/volcanoplot.png)
+![Figure 1](./img/volcanoplot.png)
 
-[Figure 2](./img/heatmap.png)
+![Figure 2](./img/heatmap.png)
 
 Le notebook 2 permet de réaliser l’assignation protéique. La liste des assignations a été comparée aux assignations obtenues dans l’article initial (voir tableau 2). 12 différences ont été relevées et pourraient faire l’objet d’analyses supplémentaires.
 
